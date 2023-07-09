@@ -24,7 +24,7 @@ Method Post, https://domain/users
 ```
 
 ### Get User
-Method Get, https://domain/users
+Method Get, https://domain/users?page=1&limit=10&badge=
 
 ### Services Includes
 Rate Limiter,
